@@ -1,0 +1,25 @@
+CSS
+body {
+    font-family: Arial;
+    background-color: lightgreen;
+}
+
+header, footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+nav {
+    background-color: gray;
+    padding: 10px;
+}
+
+nav a {
+    color: greenyellow;
+    margin: 5px;
+}
+
+main {
+    padding: 20px;
